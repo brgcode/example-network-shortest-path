@@ -2,7 +2,7 @@
 Network Shortest Path
 **********************************
 
-.. figure:: image.png
+.. figure:: network-shortest-path.png
     :figclass: figure
     :class: figure-img img-fluid
 
